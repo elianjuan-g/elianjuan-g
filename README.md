@@ -37,12 +37,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
-
-## GitHub stats
-
-<div align="center">
-
-![Elian's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianjuan-g&show_icons=true&title_color=E3B341&icon_color=E3B341&text_color=C9D1D9&bg_color=0D1117&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elianjuan-g&layout=compact&title_color=E3B341&text_color=C9D1D9&bg_color=0D1117&hide_border=true)
-
-</div>
