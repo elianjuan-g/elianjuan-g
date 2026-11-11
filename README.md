@@ -6,7 +6,6 @@
 
 [![X](https://img.shields.io/badge/X-%40ElianJGonz-000000?style=flat&logo=x)](https://x.com/ElianJGonz)
 [![Instagram](https://img.shields.io/badge/Instagram-%40eliangonzas-E4405F?style=flat&logo=instagram)](https://instagram.com/eliangonzas)
-[![Shopee](https://img.shields.io/badge/Shopee-Leveling_Digital-EE4D2D?style=flat&logo=shopee)](https://shopee.co.id/shop/72340147)
 
 </div>
 
@@ -14,7 +13,6 @@
 
 - 🛡️ Building security plugins for [Hermes Agent](https://github.com/NousResearch/hermes-agent) — fail-closed prompt-injection defense and guardrails
 - 🏆 Hermes Agent Plugin Hackathon 2026 entrant — [Hermes Guard](https://github.com/elianjuan-g/hermes-guard) & [Manas Aegis](https://github.com/elianjuan-g/hermes-manas-aegis)
-- 🏪 Owner of [Leveling Digital](https://shopee.co.id/shop/72340147), a Shopee store for digital products and social media services
 - 🎬 Content producer & video editor — Premiere Pro, After Effects, CapCut
 - 📍 Indonesia
 
